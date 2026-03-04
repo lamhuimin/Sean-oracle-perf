@@ -1,0 +1,2 @@
+
+-- Example DBMS_XPLAN output (anonymized). Do not include customer identifiers.
