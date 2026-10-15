@@ -1,9 +1,9 @@
 
 # Oracle Database Performance Toolkit
 
-> Description — The first 60–90 minutes of an Oracle performance investigation, as runnable scripts: ASH/AWR triage, SQL Monitor, wait and segment analysis, plan stability.
-> Website — 
-> Topics — oracle, oracle-database, performance-tuning, dba, sql-tuning, awr, ash, plsql
+## Description — The first 60–90 minutes of an Oracle performance investigation, as runnable scripts: ASH/AWR triage, SQL Monitor, wait and segment analysis, plan stability.
+## Website — 
+## Topics — oracle, oracle-database, performance-tuning, dba, sql-tuning, awr, ash, plsql
 
 ## Why this repo?
 I work primarily on Oracle Database performance (focus: wait analysis, SQL tuning, plan stability).
